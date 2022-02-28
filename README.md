@@ -10,7 +10,7 @@ Um auf diese Frage eine Antwort zu bekommen, konzipierten wir ein Faltungsnetzwe
 <img width="400" alt="Screenshot 2022-02-28 at 22 04 06" src="https://user-images.githubusercontent.com/81929072/156058318-3fc4da32-0f02-483f-94a1-cbc02711e4d7.png">
 
 ### 2.2 Model
-<img width="300" alt="Screenshot 2022-02-28 at 23 12 34" src="https://user-images.githubusercontent.com/81929072/156067098-b4a2c604-e8a2-4d81-ba04-74e1ba798071.png">
+<img width="500" alt="Screenshot 2022-02-28 at 23 12 34" src="https://user-images.githubusercontent.com/81929072/156067098-b4a2c604-e8a2-4d81-ba04-74e1ba798071.png">
 
 
 ### 2.3 Beispiel
