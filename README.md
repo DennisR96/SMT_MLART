@@ -5,18 +5,17 @@ In diesem Projekt handelt es sich um eine Prüfungsleistung für das Fach “Sma
 In welcher Art und Weise eignen sich neuronale Netzwerke, um Kunstepochen zu erkennen oder sie zu reproduzieren?
 Um auf diese Frage eine Antwort zu bekommen, konzipierten wir ein Faltungsnetzwerk zum Erkennen von Kunstwerken und untersuchten für die Reproduktion das generative Modell “VQGAN + CLIP” von Katherine Crowson (Crowson, 2021) 
 
-## Klassifikation (01_Klassifikation.ipynb)
+## Erkennung (01_Klassifikation.ipynb)
 <img width="200" height=250 alt="Screenshot 2022-02-28 at 21 50 08" src="https://user-images.githubusercontent.com/81929072/156056520-7e25d713-8298-459e-9da0-c4454d91f54b.png">
 
 ### Concept
-
-
+<img width="878" alt="Screenshot 2022-02-28 at 22 04 06" src="https://user-images.githubusercontent.com/81929072/156058318-3fc4da32-0f02-483f-94a1-cbc02711e4d7.png">
 
 ### Model
 
+## Reproduktion (02_Reproduktion.ipynb)
 
 
 
-![image](https://user-images.githubusercontent.com/81929072/156055890-71e2dd03-941c-4063-a88d-beb28713b8ab.png)
 
 
