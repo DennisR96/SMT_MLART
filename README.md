@@ -13,7 +13,7 @@ Um auf diese Frage eine Antwort zu bekommen, konzipierten wir ein Faltungsnetzwe
 <img width="250" alt="Screenshot 2022-02-28 at 21 50 08" src="https://user-images.githubusercontent.com/81929072/156056520-7e25d713-8298-459e-9da0-c4454d91f54b.png">
 
 ## 3  Reproduktion (02_Reproduktion.ipynb)
-## 3.1 Konzept
+### 3.1 Konzept
 <img width="500" alt="Screenshot 2022-02-28 at 22 22 34" src="https://user-images.githubusercontent.com/81929072/156060845-4921f394-3ae4-49f0-9273-e0dc5da6cbcd.png">
 
 ### 3.2 Trainingsverlauf
