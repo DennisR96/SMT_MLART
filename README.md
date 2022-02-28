@@ -14,8 +14,8 @@ Um auf diese Frage eine Antwort zu bekommen, konzipierten wir ein Faltungsnetzwe
 
 ## 3  Reproduktion (02_Reproduktion.ipynb)
 <p float="middle">
-  <img src="https://user-images.githubusercontent.com/81929072/156058931-ed97147f-5512-4b0e-9edf-10c42bd6f93f.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/81929072/156058911-1e723fbc-ac2d-4fc3-abfd-bc5c30307ed1.png" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/81929072/156058931-ed97147f-5512-4b0e-9edf-10c42bd6f93f.png" width="500" />
+  <img src="https://user-images.githubusercontent.com/81929072/156058911-1e723fbc-ac2d-4fc3-abfd-bc5c30307ed1.png" width="500" /> 
   
 </p>
 
